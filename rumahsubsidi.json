@@ -13,7 +13,7 @@
         "kecamatan":"jiwan",
         "kota":"kab madiun",
         "description": "Perumahan Indah Cendana adalah sebuah kompleks perumahan yang terletak di lokasi yang indah. Perumahan ini menawarkan fasilitas yang lengkap dan lingkungan yang nyaman untuk para penghuninya. Dikelilingi oleh area hijau yang luas, perumahan ini memberikan suasana yang segar dan alami.",
-        "saved": "true"
+        "saved": true
     },{
         "id": 2,
         "title": "Taman Seri Indah",
@@ -28,6 +28,6 @@
         "kecamatan":"kincang",
         "kota":"kab madiun",
         "description": "Perumahan Cerah dilengkapi dengan berbagai fasilitas seperti taman bermain, lapangan olahraga, dan area rekreasi. Selain itu, terdapat juga fasilitas keamanan yang baik, seperti sistem keamanan 24 jam dan pengawasan CCTV, sehingga para penghuni dapat merasa aman dan nyaman tinggal di sana.",
-        "saved": "false"
+        "saved": false
     }
 ]
