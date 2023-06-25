@@ -13,7 +13,7 @@
         "kecamatan":"jiwan",
         "kota":"kab madiun",
         "description": "Perumahan Indah Cendana adalah sebuah kompleks perumahan yang terletak di lokasi yang indah. Perumahan ini menawarkan fasilitas yang lengkap dan lingkungan yang nyaman untuk para penghuninya. Dikelilingi oleh area hijau yang luas, perumahan ini memberikan suasana yang segar dan alami.",
-        "gallery" : [
+        "gallery": [
             "https://images.unsplash.com/photo-1596276020587-8044fe049813?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
             "https://images.unsplash.com/photo-1610569244414-5e7453a447a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
             "https://images.unsplash.com/photo-1598167592384-e7587204a371?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
@@ -35,7 +35,29 @@
         "kecamatan":"kincang",
         "kota":"kab madiun",
         "description": "Perumahan Cerah dilengkapi dengan berbagai fasilitas seperti taman bermain, lapangan olahraga, dan area rekreasi. Selain itu, terdapat juga fasilitas keamanan yang baik, seperti sistem keamanan 24 jam dan pengawasan CCTV, sehingga para penghuni dapat merasa aman dan nyaman tinggal di sana.",
-        "gallery" : [
+        "gallery": [
+            "https://images.unsplash.com/photo-1596276020587-8044fe049813?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1610569244414-5e7453a447a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1598167592384-e7587204a371?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1614083511337-49069ad58b9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ],
+        "saved": true,
+        "recentview": true
+    },{
+        "id": 3,
+        "title": "Taman Seri Indah",
+        "price": 350000000,
+        "thumbnail":"https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG91c2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "photoseller":"https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
+        "seller": "Nely Charolotte",
+        "bedroom" : 3,
+        "long": 14,
+        "wide": 10,
+        "bathroom": 1,
+        "kecamatan":"kincang",
+        "kota":"kab madiun",
+        "description": "Perumahan Cerah dilengkapi dengan berbagai fasilitas seperti taman bermain, lapangan olahraga, dan area rekreasi. Selain itu, terdapat juga fasilitas keamanan yang baik, seperti sistem keamanan 24 jam dan pengawasan CCTV, sehingga para penghuni dapat merasa aman dan nyaman tinggal di sana.",
+        "gallery": [
             "https://images.unsplash.com/photo-1596276020587-8044fe049813?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
             "https://images.unsplash.com/photo-1610569244414-5e7453a447a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
             "https://images.unsplash.com/photo-1598167592384-e7587204a371?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
