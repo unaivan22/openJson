@@ -18,7 +18,9 @@
             "https://images.unsplash.com/photo-1610569244414-5e7453a447a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
             "https://images.unsplash.com/photo-1598167592384-e7587204a371?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
             "https://images.unsplash.com/photo-1614083511337-49069ad58b9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
+        ],
+        "saved": true,
+        "recentview": true
     },{
         "id": 2,
         "title": "Taman Seri Indah",
@@ -38,6 +40,8 @@
             "https://images.unsplash.com/photo-1610569244414-5e7453a447a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
             "https://images.unsplash.com/photo-1598167592384-e7587204a371?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmVzaWRlbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
             "https://images.unsplash.com/photo-1614083511337-49069ad58b9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
+        ],
+        "saved": true,
+        "recentview": true
     }
 ]
