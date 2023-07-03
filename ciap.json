@@ -18,10 +18,10 @@
         ]
     },{
         "id": 2,
-        "background": "#FF004D",
-        "fontbackground": "#ffffff",
+        "background": "#ffffff",
+        "fontbackground": "#333333",
         "date": "12 Apr 2023",
-        "thumbnail":"https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "thumbnail":"",
         "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
         "user": "Santoso Nina",
         "fav" : 3,
