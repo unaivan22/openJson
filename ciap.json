@@ -18,7 +18,7 @@
         ]
     },{
         "id": 2,
-        "background": "#ffffff",
+        "background": "#e2b888",
         "fontbackground": "#333333",
         "date": "12 Apr 2023",
         "thumbnail":"",
@@ -52,8 +52,8 @@
         ]
     },{
         "id": 4,
-        "background": "#ffffff",
-        "fontbackground": "#333333",
+        "background": "#0885dd",
+        "fontbackground": "#fff",
         "date": "12 Apr 2023",
         "thumbnail":"",
         "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
@@ -69,8 +69,8 @@
         ]
     },{
         "id": 5,
-        "background": "#ffffff",
-        "fontbackground": "#333333",
+        "background": "#f26fd1",
+        "fontbackground": "#fff",
         "date": "12 Apr 2023",
         "thumbnail":"Attended an inspiring seminar today that completely shifted my perspective. Feeling motivated and ready to take on new challenges! #PersonalGrowth #MotivationMonday",
         "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
@@ -86,7 +86,7 @@
         ]
     },{
         "id": 6,
-        "background": "#ffffff",
+        "background": "#869e69",
         "fontbackground": "#333333",
         "date": "12 Apr 2023",
         "thumbnail":"",
@@ -103,7 +103,7 @@
         ]
     },{
         "id": 7,
-        "background": "#ffffff",
+        "background": "#af972a",
         "fontbackground": "#333333",
         "date": "12 Apr 2023",
         "thumbnail":"",
@@ -120,7 +120,7 @@
         ]
     },{
         "id": 8,
-        "background": "#ffffff",
+        "background": "#a6c18f",
         "fontbackground": "#333333",
         "date": "12 Apr 2023",
         "thumbnail":"",
@@ -137,8 +137,8 @@
         ]
     },{
         "id": 9,
-        "background": "#ffffff",
-        "fontbackground": "#333333",
+        "background": "#c47425",
+        "fontbackground": "#fff",
         "date": "12 Apr 2023",
         "thumbnail":"",
         "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
@@ -154,8 +154,8 @@
         ]
     },{
         "id": 10,
-        "background": "#ffffff",
-        "fontbackground": "#333333",
+        "background": "#af3d52",
+        "fontbackground": "#fff",
         "date": "12 Apr 2023",
         "thumbnail":"",
         "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
