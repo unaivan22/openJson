@@ -33,5 +33,141 @@
             "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
             "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
         ]
+    },{
+        "id": 3,
+        "background": "#ffffff",
+        "fontbackground": "#333333",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Perumahan Indah Cendana adalah sebuah kompleks perumahan yang terletak di lokasi yang indah. Perumahan ini menawarkan fasilitas yang lengkap dan lingkungan yang nyaman untuk para penghuninya. Dikelilingi oleh area hijau yang luas, perumahan ini memberikan suasana yang segar dan alami.",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 4,
+        "background": "#ffffff",
+        "fontbackground": "#333333",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Perumahan Indah Cendana adalah sebuah kompleks perumahan yang terletak di lokasi yang indah. Perumahan ini menawarkan fasilitas yang lengkap dan lingkungan yang nyaman untuk para penghuninya. Dikelilingi oleh area hijau yang luas, perumahan ini memberikan suasana yang segar dan alami.",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 5,
+        "background": "#ffffff",
+        "fontbackground": "#333333",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Perumahan Indah Cendana adalah sebuah kompleks perumahan yang terletak di lokasi yang indah. Perumahan ini menawarkan fasilitas yang lengkap dan lingkungan yang nyaman untuk para penghuninya. Dikelilingi oleh area hijau yang luas, perumahan ini memberikan suasana yang segar dan alami.",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 6,
+        "background": "#ffffff",
+        "fontbackground": "#333333",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Perumahan Indah Cendana adalah sebuah kompleks perumahan yang terletak di lokasi yang indah. Perumahan ini menawarkan fasilitas yang lengkap dan lingkungan yang nyaman untuk para penghuninya. Dikelilingi oleh area hijau yang luas, perumahan ini memberikan suasana yang segar dan alami.",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 7,
+        "background": "#ffffff",
+        "fontbackground": "#333333",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Perumahan Indah Cendana adalah sebuah kompleks perumahan yang terletak di lokasi yang indah. Perumahan ini menawarkan fasilitas yang lengkap dan lingkungan yang nyaman untuk para penghuninya. Dikelilingi oleh area hijau yang luas, perumahan ini memberikan suasana yang segar dan alami.",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 8,
+        "background": "#ffffff",
+        "fontbackground": "#333333",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Perumahan Indah Cendana adalah sebuah kompleks perumahan yang terletak di lokasi yang indah. Perumahan ini menawarkan fasilitas yang lengkap dan lingkungan yang nyaman untuk para penghuninya. Dikelilingi oleh area hijau yang luas, perumahan ini memberikan suasana yang segar dan alami.",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 9,
+        "background": "#ffffff",
+        "fontbackground": "#333333",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Perumahan Indah Cendana adalah sebuah kompleks perumahan yang terletak di lokasi yang indah. Perumahan ini menawarkan fasilitas yang lengkap dan lingkungan yang nyaman untuk para penghuninya. Dikelilingi oleh area hijau yang luas, perumahan ini memberikan suasana yang segar dan alami.",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 10,
+        "background": "#ffffff",
+        "fontbackground": "#333333",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Perumahan Indah Cendana adalah sebuah kompleks perumahan yang terletak di lokasi yang indah. Perumahan ini menawarkan fasilitas yang lengkap dan lingkungan yang nyaman untuk para penghuninya. Dikelilingi oleh area hijau yang luas, perumahan ini memberikan suasana yang segar dan alami.",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
     }
 ]
