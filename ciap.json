@@ -169,5 +169,175 @@
             "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
             "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
         ]
+    },{
+        "id": 11,
+        "background": "#af3d52",
+        "fontbackground": "#fff",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Started learning a new language, and it's both challenging and exciting. #LanguageLearning #Multilingual",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 12,
+        "background": "#af3d52",
+        "fontbackground": "#fff",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "A rainy day calls for cozy blankets, hot cocoa, and a good book. #RainyDayVibes #CozyTime",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 13,
+        "background": "#af3d52",
+        "fontbackground": "#fff",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Feeling grateful for all the amazing people in my life who constantly lift me up. #Gratitude #Blessed",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 14,
+        "background": "#af3d52",
+        "fontbackground": "#fff",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Spontaneous road trip with friends! Making memories and exploring new places. #RoadTrip #AdventureTime",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 15,
+        "background": "#af3d52",
+        "fontbackground": "#fff",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "ust adopted the most adorable puppy. Can't wait for all the adventures we'll have together! #NewPuppy #FurBaby",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 16,
+        "background": "#af3d52",
+        "fontbackground": "#fff",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Tried a new hobby today, and it's so much fun! Excited to dive deeper into it. #NewAdventure #HobbyTime",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 17,
+        "background": "#af3d52",
+        "fontbackground": "#fff",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Can't believe it's already July! Time is flying by so quickly. #TimeFlies #July",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 18,
+        "background": "#af3d52",
+        "fontbackground": "#fff",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Attended a live concert last night, and it was pure magic. The energy, the music, everything was on point! #LiveMusic #ConcertVibes",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 19,
+        "background": "#af3d52",
+        "fontbackground": "#fff",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Spent the whole afternoon exploring a new hiking trail. The views were absolutely breathtaking! #NatureAdventure #Hiking",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },{
+        "id": 20,
+        "background": "#af3d52",
+        "fontbackground": "#fff",
+        "date": "12 Apr 2023",
+        "thumbnail":"",
+        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+        "user": "Santoso Nina",
+        "fav" : 3,
+        "ciap": "Just had the most delicious ice cream sundae. Sugar rush, here I come! #SweetTooth #IceCreamLover",
+        "loved": true,
+        "gallery" : [
+            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        ]
     }
 ]
