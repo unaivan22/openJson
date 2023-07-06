@@ -130,6 +130,48 @@
                 "loved": true
                 }
             ]
+        },{
+            "id": 6,
+            "name": "Isabella Ramirez",
+            "photouser":"https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+            "posts": [
+              {
+                  "id": 6000,
+                  "background": "#DC97B3",
+                  "fontbackground": "#fff",
+                  "date": "09-07-2023",
+                  "fav" : 3,
+                  "ciap": "A rainy day calls for cozy blankets, hot cocoa, and a good book. #RainyDayVibes #CozyTime",
+                  "loved": true
+              },
+              {
+                  "id": 6001,
+                  "background": "##5DBAB2",
+                  "fontbackground": "#333",
+                  "date": "01-07-2023",
+                  "fav" : 6,
+                  "ciap": "Started learning a new language, and it's both challenging and exciting. #LanguageLearning #Multilingual",
+                  "loved": true
+              },
+              {
+                "id": 6002,
+                "background": "#49817B",
+                "fontbackground": "#fff",
+                "date": "02-07-2023",
+                "fav" : 19,
+                "ciap": "Celebrated a milestone today, and I'm incredibly proud of how far I've come. #AchievementUnlocked #Milestone",
+                "loved": true
+                },
+               {
+                "id": 6003,
+                "background": "#9E6E00",
+                "fontbackground": "#fff",
+                "date": "02-07-2023",
+                "fav" : 77,
+                "ciap": "Just tried a new restaurant in town, and the food was out of this world! Highly recommend it. #Foodie #FoodLover",
+                "loved": true
+                }
+            ]
         }
     ]
 }
