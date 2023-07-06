@@ -45,9 +45,90 @@
                   "fontbackground": "#fff",
                   "date": "11-07-2023",
                   "fav" : 3,
-                  "ciap": "JLife is too short to hold grudges. Letting go of negativity and embracing forgiveness. #LettingGo #Positivity",
+                  "ciap": "Life is too short to hold grudges. Letting go of negativity and embracing forgiveness. #LettingGo #Positivity",
                   "loved": true
               }
+            ]
+        },{
+            "id": 3,
+            "name": "Sophia Anderson",
+            "photouser":"https://images.unsplash.com/photo-1509967419530-da38b4704bc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=895&q=80",
+            "posts": [
+              {
+                  "id": 3000,
+                  "background": "#845EC2",
+                  "fontbackground": "#fff",
+                  "date": "02-07-2023",
+                  "fav" : 3,
+                  "ciap": "Spent the whole afternoon exploring a new hiking trail. The views were absolutely breathtaking! #NatureAdventure #Hiking",
+                  "loved": true
+              },
+              {
+                  "id": 3001,
+                  "background": "#D65DB1",
+                  "fontbackground": "#fff",
+                  "date": "09-07-2023",
+                  "fav" : 3,
+                  "ciap": "Can't believe it's already July! Time is flying by so quickly. #TimeFlies #July",
+                  "loved": true
+              }
+            ]
+        },{
+            "id": 4,
+            "name": "Liam Thompson",
+            "photouser":"https://images.unsplash.com/photo-1616766098946-e4fabb7d6da0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "posts": [
+              {
+                  "id": 4000,
+                  "background": "#FF6F91",
+                  "fontbackground": "#fff",
+                  "date": "14-07-2023",
+                  "fav" : 3,
+                  "ciap": "Tried a new hobby today, and it's so much fun! Excited to dive deeper into it. #NewAdventure #HobbyTime",
+                  "loved": true
+              },
+              {
+                  "id": 4001,
+                  "background": "#FF9671",
+                  "fontbackground": "#fff",
+                  "date": "11-07-2023",
+                  "fav" : 6,
+                  "ciap": "Just adopted the most adorable puppy. Can't wait for all the adventures we'll have together! #NewPuppy #FurBaby",
+                  "loved": true
+              }
+            ]
+        },{
+            "id": 5,
+            "name": "Isabella Ramirez",
+            "photouser":"https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+            "posts": [
+              {
+                  "id": 5000,
+                  "background": "#FFC75F",
+                  "fontbackground": "#333",
+                  "date": "09-07-2023",
+                  "fav" : 3,
+                  "ciap": "Spontaneous road trip with friends! Making memories and exploring new places. #RoadTrip #AdventureTime",
+                  "loved": true
+              },
+              {
+                  "id": 5001,
+                  "background": "#F9F871",
+                  "fontbackground": "#333",
+                  "date": "01-07-2023",
+                  "fav" : 6,
+                  "ciap": "Feeling grateful for all the amazing people in my life who constantly lift me up. #Gratitude #Blessed",
+                  "loved": true
+              },
+              {
+                "id": 5002,
+                "background": "#FF0073",
+                "fontbackground": "#fff",
+                "date": "02-07-2023",
+                "fav" : 19,
+                "ciap": "Feeling grateful for all the amazing people in my life who constantly lift me up. #Gratitude #Blessed",
+                "loved": true
+                }
             ]
         }
     ]
