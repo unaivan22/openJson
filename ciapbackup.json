@@ -1,343 +1,840 @@
-[
-    {
-        "id": 1,
-        "background": "#FFE600",
-        "fontbackground": "#333333",
-        "date": "12 Apr 2023",
-        "thumbnail":"https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Anggun Nina",
-        "fav" : 3,
-        "ciap": "Just witnessed the most breathtaking sunset ever! Nature's beauty never ceases to amaze me. #NatureLover #SunsetMagic",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 2,
-        "background": "#e2b888",
-        "fontbackground": "#333333",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Spent the whole day binge-watching my favorite TV show. I have zero regrets! #LazySunday #TVAddict",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 3,
-        "background": "#ffffff",
-        "fontbackground": "#333333",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Just tried a new recipe for dinner, and it turned out to be a disaster! Note to self: Stick to the tried and tested next time. #CookingFail #KitchenDisaster",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 4,
-        "background": "#0885dd",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Finally booked my dream vacation to Bali! Counting down the days until paradise. #TravelGoals #BaliBound",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 5,
-        "background": "#f26fd1",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"Attended an inspiring seminar today that completely shifted my perspective. Feeling motivated and ready to take on new challenges! #PersonalGrowth #MotivationMonday",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 6,
-        "background": "#869e69",
-        "fontbackground": "#333333",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Nothing beats the joy of spending quality time with loved ones. Grateful for the wonderful memories created today. #FamilyTime #CherishedMoments",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 7,
-        "background": "#af972a",
-        "fontbackground": "#333333",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Just finished an intense workout at the gym, and I feel like I can conquer the world! #FitnessJunkie #GymLife",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 8,
-        "background": "#a6c18f",
-        "fontbackground": "#333333",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "The release of the new Marvel movie blew my mind! The action, the visuals, everything was top-notch. A must-watch for all superhero fans! #MarvelFan #EpicMovie",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 9,
-        "background": "#c47425",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Started reading a captivating novel yesterday, and I'm already halfway through. It's impossible to put down! #Bookworm #PageTurner",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 10,
-        "background": "#af3d52",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Happiness is finding the perfect balance between work and play. Enjoying a well-deserved weekend getaway to recharge and unwind. #WorkLifeBalance #WeekendVibes",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 11,
-        "background": "#020207",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Started learning a new language, and it's both challenging and exciting. #LanguageLearning #Multilingual",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 12,
-        "background": "#c6c187",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "A rainy day calls for cozy blankets, hot cocoa, and a good book. #RainyDayVibes #CozyTime",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 13,
-        "background": "#7d417f",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Feeling grateful for all the amazing people in my life who constantly lift me up. #Gratitude #Blessed",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 14,
-        "background": "#26c148",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Spontaneous road trip with friends! Making memories and exploring new places. #RoadTrip #AdventureTime",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 15,
-        "background": "#af3d52",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "ust adopted the most adorable puppy. Can't wait for all the adventures we'll have together! #NewPuppy #FurBaby",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 16,
-        "background": "#84767e",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Tried a new hobby today, and it's so much fun! Excited to dive deeper into it. #NewAdventure #HobbyTime",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 17,
-        "background": "#03ad8e",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Can't believe it's already July! Time is flying by so quickly. #TimeFlies #July",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 18,
-        "background": "#afc906",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Attended a live concert last night, and it was pure magic. The energy, the music, everything was on point! #LiveMusic #ConcertVibes",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 19,
-        "background": "#292b68",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Spent the whole afternoon exploring a new hiking trail. The views were absolutely breathtaking! #NatureAdventure #Hiking",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    },{
-        "id": 20,
-        "background": "#70d32a",
-        "fontbackground": "#fff",
-        "date": "12 Apr 2023",
-        "thumbnail":"",
-        "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
-        "user": "Santoso Nina",
-        "fav" : 3,
-        "ciap": "Just had the most delicious ice cream sundae. Sugar rush, here I come! #SweetTooth #IceCreamLover",
-        "loved": true,
-        "gallery" : [
-            "https://images.unsplash.com/photo-1543071293-d91175a68672?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
-            "https://images.unsplash.com/photo-1598637403586-83a56b5353c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-            "https://images.unsplash.com/photo-1613845482407-8da4a65dbc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fHJlc2lkZW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
-        ]
-    }
-]
+{
+    "people": [
+        {
+            "id": 1,
+            "name": "Santoso Nina",
+            "photouser":"https://images.unsplash.com/photo-1601412436009-d964bd02edbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+            "posts": [
+              {
+                  "id": 1000,
+                  "background": "#84767e",
+                  "fontbackground": "#fff",
+                  "date": "30-07-2023",
+                  "fav" : 3,
+                  "ciap": "Just had the most delicious ice cream sundae. Sugar rush, here I come! #SweetTooth #IceCreamLover",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 2222,
+                  "respeech": 678,
+                  "comments": 90,
+                  "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              },
+              {
+                  "id": 1001,
+                  "background": "#03ad8e",
+                  "fontbackground": "#fff",
+                  "date": "01-07-2023",
+                  "fav" : 3,
+                  "ciap": "Started a new fitness challenge today. Pushing my limits and striving for progress. #FitnessGoals #ChallengeAccepted",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 231,
+                  "respeech": 88,
+                  "comments": 12,
+                  "responses": [
+                    {
+                        "id": 1001001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1001002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1001003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },{
+                        "id": 1001004,
+                        "resname": "Ian Santoso",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },{
+                        "id": 1001005,
+                        "resname": "Bambank",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },{
+                        "id": 1001006,
+                        "resname": "Trimbel",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Deandra",
+            "photouser":"https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=461&q=80",
+            "posts": [
+              {
+                  "id": 2000,
+                  "background": "#afc906",
+                  "fontbackground": "#fff",
+                  "date": "12-07-2023",
+                  "fav" : 3,
+                  "ciap": "Rediscovered my love for painting after a long break. Feels amazing to express myself through art. #CreativeOutlet #ArtisticSoul",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 12,
+                  "respeech": 7,
+                  "comments": 6,
+                  "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              },
+              {
+                  "id": 2001,
+                  "background": "#70d32a",
+                  "fontbackground": "#fff",
+                  "date": "11-07-2023",
+                  "fav" : 3,
+                  "ciap": "Life is too short to hold grudges. Letting go of negativity and embracing forgiveness. #LettingGo #Positivity",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 5555,
+                  "respeech": 200,
+                  "comments": 21,"responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              }
+            ]
+        },{
+            "id": 3,
+            "name": "Sophia Anderson",
+            "photouser":"https://images.unsplash.com/photo-1509967419530-da38b4704bc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=895&q=80",
+            "posts": [
+              {
+                  "id": 3000,
+                  "background": "#845EC2",
+                  "fontbackground": "#fff",
+                  "date": "02-07-2023",
+                  "fav" : 3,
+                  "ciap": "Spent the whole afternoon exploring a new hiking trail. The views were absolutely breathtaking! #NatureAdventure #Hiking",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 6234,
+                  "respeech": 4124,
+                  "comments": 77,
+                  "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              },
+              {
+                  "id": 3001,
+                  "background": "#D65DB1",
+                  "fontbackground": "#fff",
+                  "date": "09-07-2023",
+                  "fav" : 3,
+                  "ciap": "Can't believe it's already July! Time is flying by so quickly. #TimeFlies #July",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 127,
+                  "respeech": 15,
+                  "comments": 67,
+                  "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              }
+            ]
+        },{
+            "id": 4,
+            "name": "Liam Thompson",
+            "photouser":"https://images.unsplash.com/photo-1616766098946-e4fabb7d6da0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+            "posts": [
+              {
+                  "id": 4000,
+                  "background": "#FF6F91",
+                  "fontbackground": "#fff",
+                  "date": "14-07-2023",
+                  "fav" : 3,
+                  "ciap": "Tried a new hobby today, and it's so much fun! Excited to dive deeper into it. #NewAdventure #HobbyTime",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 19,
+                  "respeech": 22,
+                  "comments": 16,
+                  "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              },
+              {
+                  "id": 4001,
+                  "background": "#FF9671",
+                  "fontbackground": "#fff",
+                  "date": "11-07-2023",
+                  "fav" : 6,
+                  "ciap": "Just adopted the most adorable puppy. Can't wait for all the adventures we'll have together! #NewPuppy #FurBaby",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 156,
+                  "respeech": 1,
+                  "comments": 2,
+                  "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              }
+            ]
+        },{
+            "id": 5,
+            "name": "Isabella Ramirez",
+            "photouser":"https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+            "posts": [
+              {
+                  "id": 5000,
+                  "background": "#FFC75F",
+                  "fontbackground": "#333",
+                  "date": "09-07-2023",
+                  "fav" : 3,
+                  "ciap": "Spontaneous road trip with friends! Making memories and exploring new places. #RoadTrip #AdventureTime",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 6765,
+                  "respeech": 123,
+                  "comments": 34,
+                  "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              },
+              {
+                  "id": 5001,
+                  "background": "#F9F871",
+                  "fontbackground": "#333",
+                  "date": "01-07-2023",
+                  "fav" : 6,
+                  "ciap": "Feeling grateful for all the amazing people in my life who constantly lift me up. #Gratitude #Blessed",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 5423,
+                  "respeech": 678,
+                  "comments": 25,
+                  "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              },
+              {
+                "id": 5002,
+                "background": "#FF0073",
+                "fontbackground": "#fff",
+                "date": "02-07-2023",
+                "fav" : 19,
+                "ciap": "Feeling grateful for all the amazing people in my life who constantly lift me up. #Gratitude #Blessed",
+                "loved": true,
+                "thumbhs": "https://picsum.photos/200",
+                "likes": 551,
+                "respeech": 123,
+                "comments": 44,
+                "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+                }
+            ]
+        },{
+            "id": 6,
+            "name": "Ava Lewis",
+            "photouser":"https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
+            "posts": [
+              {
+                  "id": 6000,
+                  "background": "#DC97B3",
+                  "fontbackground": "#fff",
+                  "date": "09-07-2023",
+                  "fav" : 3,
+                  "ciap": "A rainy day calls for cozy blankets, hot cocoa, and a good book. #RainyDayVibes #CozyTime",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 789,
+                  "respeech": 200,
+                  "comments": 77,
+                  "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              },
+              {
+                  "id": 6001,
+                  "background": "##5DBAB2",
+                  "fontbackground": "#333",
+                  "date": "01-07-2023",
+                  "fav" : 6,
+                  "ciap": "Started learning a new language, and it's both challenging and exciting. #LanguageLearning #Multilingual",
+                  "loved": true,
+                  "thumbhs": "https://picsum.photos/200",
+                  "likes": 45,
+                  "respeech": 13,
+                  "comments": 45,
+                  "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+              },
+              {
+                "id": 6002,
+                "background": "#49817B",
+                "fontbackground": "#fff",
+                "date": "02-07-2023",
+                "fav" : 19,
+                "ciap": "Celebrated a milestone today, and I'm incredibly proud of how far I've come. #AchievementUnlocked #Milestone",
+                "loved": true,
+                "thumbhs": "https://picsum.photos/200",
+                "likes": 67,
+                "respeech": 33,
+                "comments": 12,
+                "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+                },
+               {
+                "id": 6003,
+                "background": "#9E6E00",
+                "fontbackground": "#fff",
+                "date": "02-07-2023",
+                "fav" : 77,
+                "ciap": "Just tried a new restaurant in town, and the food was out of this world! Highly recommend it. #Foodie #FoodLover",
+                "loved": true,
+                "thumbhs": "https://picsum.photos/200",
+                "likes": 56,
+                "respeech": 12,
+                "comments": 44,
+                "responses": [
+                    {
+                        "id": 1000001,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000002,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    },
+                    {
+                        "id": 1000003,
+                        "resname": "Aan Pranowo",
+                        "resdate": "30-07-2023",
+                        "resfav" : 3,
+                        "resciap": "Yeah its delicious ice cream ",
+                        "resloved": true,
+                        "resthumbhs": "https://picsum.photos/200",
+                        "reslikes": 2,
+                        "resrespeech": 0,
+                        "rescomments": 0
+                    }
+                ]
+                }
+            ]
+        }
+    ]
+}
+  
