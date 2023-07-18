@@ -1,0 +1,38 @@
+{
+    "room": [{
+            "id": 1,
+            "roomname": "Our Bedroom",
+            "icon": "bed.double",
+            "components": [{
+                "id": 1001,
+                "componentname": "Sony Bravia KD-55X75K",
+                "componenttype": "Smart TV",
+                "componenticon": "tv",
+                "componentstatus": false
+            }, {
+                "id": 1002,
+                "componentname": "Samsung SI-M8V085AB1U",
+                "componenttype": "Lamp",
+                "componenticon": "lamp.ceiling",
+                "componentstatus": true
+            }]
+        },{
+            "id": 2,
+            "roomname": "Our Bedroom",
+            "icon": "bed.double",
+            "components": [{
+                "id": 2001,
+                "componentname": "Sony WF-1000XM4",
+                "componenttype": "Earphone",
+                "componenticon": "earpods",
+                "componentstatus": false
+            }, {
+                "id": 2002,
+                "componentname": "Google Nest Mini 2",
+                "componenttype": "Smart Assistance",
+                "componenticon": "homepod",
+                "componentstatus": true
+            }]
+        }
+    ]
+}
