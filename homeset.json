@@ -8,13 +8,15 @@
                 "componentname": "Sony Bravia KD-55X75K",
                 "componenttype": "Smart TV",
                 "componenticon": "tv",
-                "componentstatus": false
+                "componentstatus": false,
+                "dataPoints": [40, 39, 40, 20, 10, 0, 5]
             }, {
                 "id": 1002,
                 "componentname": "Samsung SI-M8V085AB1U",
                 "componenttype": "Lamp",
                 "componenticon": "lamp.ceiling",
-                "componentstatus": true
+                "componentstatus": true,
+                "dataPoints": [12, 12, 12, 12, 12, 0, 12]
             }]
         },{
             "id": 2,
@@ -25,13 +27,15 @@
                 "componentname": "Sony WF-1000XM4",
                 "componenttype": "Earphone",
                 "componenticon": "earpods",
-                "componentstatus": false
+                "componentstatus": false,
+                "dataPoints": [22, 32, 12, 7, 6, 11, 15]
             }, {
                 "id": 2002,
                 "componentname": "Google Nest Mini 2",
                 "componenttype": "Smart Assistance",
                 "componenticon": "homepod",
-                "componentstatus": true
+                "componentstatus": true,
+                "dataPoints": [5, 5, 5, 5, 5, 5, 5]
             }]
         },{
             "id": 3,
@@ -42,13 +46,15 @@
                 "componentname": "6.3 cu. ft. Smart Slide-in",
                 "componenttype": "Smart Stove",
                 "componenticon": "stove",
-                "componentstatus": false
+                "componentstatus": false,
+                "dataPoints": [1200, 1200, 1200, 1200, 1200, 0, 5]
             }, {
                 "id": 3002,
                 "componentname": "Samsung SI-M8V085AB1U",
                 "componenttype": "Lamp",
                 "componenticon": "lamp.ceiling",
-                "componentstatus": true
+                "componentstatus": true,
+                "dataPoints": [5, 5, 5, 5, 5, 5, 5]
             }]
         },{
             "id": 4,
@@ -59,19 +65,22 @@
                 "componentname": "BARDI Smart Outdoor STC",
                 "componenttype": "Smart CCTV",
                 "componenticon": "web.camera.fill",
-                "componentstatus": true
+                "componentstatus": true,
+                "dataPoints": [5, 5, 5, 5, 5, 5, 5]
             },{
                 "id": 4002,
                 "componentname": "Samsung SmartCam SNH-1011N",
                 "componenttype": "Smart CCTV",
                 "componenticon": "web.camera.fill",
-                "componentstatus": true
+                "componentstatus": true,
+                "dataPoints": [5, 5, 5, 5, 5, 5, 5]
             }, {
                 "id": 4003,
                 "componentname": "Samsung SI-M8V085AB1U",
                 "componenttype": "Lamp",
                 "componenticon": "lamp.ceiling",
-                "componentstatus": true
+                "componentstatus": true,
+                "dataPoints": [5, 5, 5, 5, 5, 5, 5]
             }]
         }
     ]
