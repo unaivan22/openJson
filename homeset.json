@@ -18,7 +18,7 @@
             }]
         },{
             "id": 2,
-            "roomname": "Our Bedroom",
+            "roomname": "Anastasia Bedroom",
             "icon": "bed.double",
             "components": [{
                 "id": 2001,
@@ -31,6 +31,23 @@
                 "componentname": "Google Nest Mini 2",
                 "componenttype": "Smart Assistance",
                 "componenticon": "homepod",
+                "componentstatus": true
+            }]
+        },{
+            "id": 3,
+            "roomname": "Kitchen",
+            "icon": "fork.knife",
+            "components": [{
+                "id": 3001,
+                "componentname": "6.3 cu. ft. Smart Slide-in",
+                "componenttype": "Smart Stove",
+                "componenticon": "stove",
+                "componentstatus": false
+            }, {
+                "id": 3002,
+                "componentname": "Samsung SI-M8V085AB1U",
+                "componenttype": "Lamp",
+                "componenticon": "lamp.ceiling",
                 "componentstatus": true
             }]
         }
