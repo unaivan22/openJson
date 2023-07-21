@@ -50,6 +50,29 @@
                 "componenticon": "lamp.ceiling",
                 "componentstatus": true
             }]
+        },{
+            "id": 4,
+            "roomname": "Car Port",
+            "icon": "car",
+            "components": [{
+                "id": 4001,
+                "componentname": "BARDI Smart Outdoor STC",
+                "componenttype": "Smart CCTV",
+                "componenticon": "web.camera.fill",
+                "componentstatus": true
+            },{
+                "id": 4002,
+                "componentname": "Samsung SmartCam SNH-1011N",
+                "componenttype": "Smart CCTV",
+                "componenticon": "web.camera.fill",
+                "componentstatus": true
+            }, {
+                "id": 3002,
+                "componentname": "Samsung SI-M8V085AB1U",
+                "componenttype": "Lamp",
+                "componenticon": "lamp.ceiling",
+                "componentstatus": true
+            }]
         }
     ]
 }
