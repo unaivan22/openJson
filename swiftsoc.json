@@ -5,7 +5,7 @@
             "avatar": "user1",
             "avatarlikes" : ["user2", "user3", "user4"],
             "otherlikes" : 372,
-            "posticaption": "Sundays are made for smashing serves, epic rallies, and court victories! 🎾🌞 ",
+            "postcaption": "Sundays are made for smashing serves, epic rallies, and court victories! 🎾🌞 ",
             "postimage": [{
                 "id": 1001,
                 "image": "https://images.unsplash.com/photo-1571385778997-1ae4643264e6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=686&q=80"
@@ -22,7 +22,7 @@
             "avatar": "user3",
             "avatarlikes" : ["user5", "user4", "user3"],
             "otherlikes" : 277,
-            "posticaption": "Embracing the untamed beauty of nature 🌄🍃 Captivated by the majestic allure of these ancient mountains, where time stands still and tranquility reigns supreme.",
+            "postcaption": "Embracing the untamed beauty of nature 🌄🍃 Captivated by the majestic allure of these ancient mountains, where time stands still and tranquility reigns supreme.",
             "postimage": [{
                 "id": 2001,
                 "image": "https://images.unsplash.com/photo-1602130707301-2f09f9d68179?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
