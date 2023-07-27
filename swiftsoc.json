@@ -21,7 +21,7 @@
         },{
             "id": 2,
             "peoplename": "Mikaela Bloom",
-            "avatar": "user1",
+            "avatar": "user2",
             "avatarlikes" : ["user5", "user4", "user3"],
             "otherlikes" : 277,
             "postimage": [{
