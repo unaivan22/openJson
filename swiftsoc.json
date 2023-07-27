@@ -1,0 +1,34 @@
+{
+    "posts": [{
+            "id": 1,
+            "peoplename": "Mira Peach",
+            "avatar": "user1",
+            "avatarlikes" : ["user2", "user3", "user4"],
+            "otherlikes" : 372,
+            "postimage": [{
+                "id": 1001,
+                "image": "https://images.unsplash.com/photo-1690312147021-0fc60c04612f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=436&q=80",
+                "caption" : ""
+            },{
+                "id": 1002,
+                "image": "https://images.unsplash.com/photo-1690122008597-e20146213a7a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+                "caption" : ""
+            },{
+                "id": 1003,
+                "image": "https://images.unsplash.com/photo-1689862685294-78b2f192a4a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+                "caption" : ""
+            }]
+        },{
+            "id": 2,
+            "peoplename": "Mikaela Bloom",
+            "avatar": "user1",
+            "avatarlikes" : ["user5", "user4", "user3"],
+            "otherlikes" : 277,
+            "postimage": [{
+                "id": 2001,
+                "image": "",
+                "caption" : "Yeah i'am now a product designer"
+            }]
+        }
+    ]
+}
