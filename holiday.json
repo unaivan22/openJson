@@ -1,0 +1,67 @@
+[
+    {
+      "year": 2023,
+      "date": {
+        "month": 1,
+        "day": 1
+      },
+      "holiday": "New Year's Day"
+    },
+    {
+      "year": 2023,
+      "date": {
+        "month": 5,
+        "day": 1
+      },
+      "holiday": "Labor Day"
+    },
+    {
+      "year": 2023,
+      "date": {
+        "month": 8,
+        "day": 17
+      },
+      "holiday": "Indonesian Independence Day"
+    },
+    {
+      "year": 2023,
+      "date": {
+        "month": 9,
+        "day": 28
+      },
+      "holiday": "Maulid Nabi Muhammad SAW"
+    },
+    {
+      "year": 2024,
+      "date": {
+        "month": 1,
+        "day": 1
+      },
+      "holiday": "New Year's Day"
+    },
+    {
+      "year": 2024,
+      "date": {
+        "month": 5,
+        "day": 1
+      },
+      "holiday": "Labor Day"
+    },
+    {
+      "year": 2024,
+      "date": {
+        "month": 8,
+        "day": 17
+      },
+      "holiday": "Indonesian Independence Day"
+    },
+    {
+      "year": 2024,
+      "date": {
+        "month": 9,
+        "day": 28
+      },
+      "holiday": "Maulid Nabi Muhammad SAW"
+    }
+  ]
+  
