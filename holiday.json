@@ -48,5 +48,21 @@
   { "id": 116, "date": "2024-07-20", "description": "Weekend" },
   { "id": 117, "date": "2024-07-21", "description": "Weekend" },
   { "id": 118, "date": "2024-07-27", "description": "Weekend" },
-  { "id": 119, "date": "2024-07-28", "description": "Weekend" }
+  { "id": 119, "date": "2024-08-03", "description": "Weekend" },
+  { "id": 120, "date": "2024-08-04", "description": "Weekend" },
+  { "id": 121, "date": "2024-08-10", "description": "Weekend" },
+  { "id": 122, "date": "2024-08-11", "description": "Weekend" },
+  { "id": 123, "date": "2024-08-18", "description": "Weekend" },
+  { "id": 124, "date": "2024-08-24", "description": "Weekend" },
+  { "id": 125, "date": "2024-08-25", "description": "Weekend" },
+  { "id": 126, "date": "2024-08-31", "description": "Weekend" },
+  { "id": 127, "date": "2024-09-01", "description": "Weekend" },
+  { "id": 128, "date": "2024-09-07", "description": "Weekend" },
+  { "id": 129, "date": "2024-09-08", "description": "Weekend" },
+  { "id": 130, "date": "2024-09-14", "description": "Weekend" },
+  { "id": 131, "date": "2024-09-15", "description": "Weekend" },
+  { "id": 132, "date": "2024-09-21", "description": "Weekend" },
+  { "id": 133, "date": "2024-09-22", "description": "Weekend" },
+  { "id": 134, "date": "2024-09-28", "description": "Weekend" },
+  { "id": 135, "date": "2024-09-29", "description": "Weekend" }
 ]
