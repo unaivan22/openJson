@@ -1,0 +1,13 @@
+[
+  { "Kode": 1, "Keterangan": "Hilang karena kecurian" },
+  { "Kode": 2, "Keterangan": "Tidak ada karena tidak diketemukan" },
+  { "Kode": 3, "Keterangan": "Belum dikapitalisasi dan diketahui data induknya" },
+  { "Kode": 4, "Keterangan": "Belum dikapitalisasi dan tidak diketahui data induknya" },
+  { "Kode": 5, "Keterangan": "Digunakan pegawai Pemda" },
+  { "Kode": 6, "Keterangan": "Digunakan pegawai Pusat/pihak lain" },
+  { "Kode": 7, "Keterangan": "Terjadi perubahan kondisi fisik barang / rusak" },
+  { "Kode": 8, "Keterangan": "Terjadi perubahan data" },
+  { "Kode": 9, "Keterangan": "Tercatat ganda" },
+  { "Kode": 10, "Keterangan": "Berdiri diatas tanah bukan milik Pemda" },
+  { "Kode": 11, "Keterangan": "Belum tercatat" }
+]
